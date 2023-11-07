@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* body{
+    background-image: url(/images/SL-042221-42420-04.jpg);
+    background-size: cover;
+    backdrop-filter: blur(0.5);
+} */
+table{
+    border-collapse: collapse;
+    border: 1px solid #444;
+    margin: auto;
+    width: 500px;
+    height: 300px;
+
+}
+table,td,tr{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    text-align: left;
+}
+.heading1{
+    text-align: right;
+    color: #444;
+    
+    
+}
+.topic{
+    font-weight: bold;
+}
+td,th{
+    padding: 5px 25px;
+}
+caption{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #615656;
+    font-weight: 550;
+
+}
+.heading1{
+    background-color:rgb(189, 186, 186);
+    
+}
+.alt{
+    background-color: rgb(212, 208, 208);
+}
